@@ -121,10 +121,10 @@ html {
   -ms-grid-rows: auto auto;
   grid-template-rows: auto auto;
   grid-row-gap: 16px;
-  grid-column-gap: 16px;
+  grid-column-gap: 10px;
 }
 .cards {
-  padding: 30px 30px 20px;
+  padding: 20px;
   border-radius: 4px;
   color: black;
   background-color: #f0f4f6;
